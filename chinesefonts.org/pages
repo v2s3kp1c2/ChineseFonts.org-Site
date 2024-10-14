@@ -73,7 +73,7 @@ Pages
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -86,15 +86,15 @@ Pages
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="fonts/mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="fonts/toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="search">Search</a></li>
                           
                           
                         </ul>
@@ -133,7 +133,7 @@ Pages
 <h1 class="font-weight-normal text-7 mb-2">Pages</h1>
 <p>
 
-<a href="/contact.html">Contact Us</a><br/>
+<a href="contact.html">Contact Us</a><br/>
 
 </p>
 
@@ -154,9 +154,9 @@ Pages
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>

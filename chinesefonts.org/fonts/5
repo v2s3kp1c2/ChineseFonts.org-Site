@@ -72,7 +72,7 @@
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="../index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -85,15 +85,15 @@
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../search">Search</a></li>
                           
                           
                         </ul>
@@ -132,69 +132,69 @@
 <div class="text-center">
   <ul class="pagination">
     
-    <li class="page-item"><a class="page-link" href="/fonts/4">Prev</a></li>
+    <li class="page-item"><a class="page-link" href="4">Prev</a></li>
     
 
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/1">1</a></li>
+    <li class="page-item"><a class="page-link" href="1">1</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/2">2</a></li>
+    <li class="page-item"><a class="page-link" href="2">2</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/3">3</a></li>
+    <li class="page-item"><a class="page-link" href="3">3</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/4">4</a></li>
+    <li class="page-item"><a class="page-link" href="4">4</a></li>
     
     
     
-    <li class="page-item active"><a class="page-link" href="#">5 <span class="sr-only">(current)</span></a></li>
+    <li class="page-item active"><a class="page-link" href="5#">5 <span class="sr-only">(current)</span></a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/6">6</a></li>
+    <li class="page-item"><a class="page-link" href="6">6</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/7">7</a></li>
+    <li class="page-item"><a class="page-link" href="7">7</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/8">8</a></li>
+    <li class="page-item"><a class="page-link" href="8">8</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/10">10</a></li>
+    <li class="page-item"><a class="page-link" href="10">10</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/19">19</a></li>
+    <li class="page-item"><a class="page-link" href="19">19</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/28">28</a></li>
+    <li class="page-item"><a class="page-link" href="28">28</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/37">37</a></li>
+    <li class="page-item"><a class="page-link" href="37">37</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/46">46</a></li>
+    <li class="page-item"><a class="page-link" href="46">46</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/49">49</a></li>
+    <li class="page-item"><a class="page-link" href="49">49</a></li>
     
     
 
     
-    <li class="page-item"><a class="page-link" href="/fonts/6">Next</a></li>
+    <li class="page-item"><a class="page-link" href="6">Next</a></li>
     
   </ul>
 </div>
@@ -206,18 +206,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/fzkai-z03-regular"><img src="https://media.chinesefonts.org/preview/fzkai-z03-regular.png" alt="Preview of FZKai-Z03 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="fzkai-z03-regular"><img src="https://media.chinesefonts.org/preview/fzkai-z03-regular.png" alt="Preview of FZKai-Z03 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/fzkai-z03-regular">FZKai-Z03 Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="fzkai-z03-regular">FZKai-Z03 Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>15320 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/fzkai-z03-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="fzkai-z03-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -227,18 +227,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/fzkai-z03s-regular"><img src="https://media.chinesefonts.org/preview/fzkai-z03s-regular.png" alt="Preview of FZKai-Z03S Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="fzkai-z03s-regular"><img src="https://media.chinesefonts.org/preview/fzkai-z03s-regular.png" alt="Preview of FZKai-Z03S Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/fzkai-z03s-regular">FZKai-Z03S Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="fzkai-z03s-regular">FZKai-Z03S Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>5484 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/fzkai-z03s-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="fzkai-z03s-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -248,18 +248,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/fzkai-z03t-regular"><img src="https://media.chinesefonts.org/preview/fzkai-z03t-regular.png" alt="Preview of FZKai-Z03T Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="fzkai-z03t-regular"><img src="https://media.chinesefonts.org/preview/fzkai-z03t-regular.png" alt="Preview of FZKai-Z03T Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/fzkai-z03t-regular">FZKai-Z03T Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="fzkai-z03t-regular">FZKai-Z03T Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>4004 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/fzkai-z03t-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="fzkai-z03t-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -269,18 +269,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/fzshusong-z01-regular"><img src="https://media.chinesefonts.org/preview/fzshusong-z01-regular.png" alt="Preview of FZShuSong-Z01 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="fzshusong-z01-regular"><img src="https://media.chinesefonts.org/preview/fzshusong-z01-regular.png" alt="Preview of FZShuSong-Z01 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/fzshusong-z01-regular">FZShuSong-Z01 Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="fzshusong-z01-regular">FZShuSong-Z01 Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>2364 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/fzshusong-z01-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="fzshusong-z01-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -307,18 +307,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/fzshusong-z01s-regular"><img src="https://media.chinesefonts.org/preview/fzshusong-z01s-regular.png" alt="Preview of FZShuSong-Z01S Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="fzshusong-z01s-regular"><img src="https://media.chinesefonts.org/preview/fzshusong-z01s-regular.png" alt="Preview of FZShuSong-Z01S Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/fzshusong-z01s-regular">FZShuSong-Z01S Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="fzshusong-z01s-regular">FZShuSong-Z01S Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>2039 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/fzshusong-z01s-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="fzshusong-z01s-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -331,69 +331,69 @@
 <div class="text-center">
   <ul class="pagination">
     
-    <li class="page-item"><a class="page-link" href="/fonts/4">Prev</a></li>
+    <li class="page-item"><a class="page-link" href="4">Prev</a></li>
     
 
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/1">1</a></li>
+    <li class="page-item"><a class="page-link" href="1">1</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/2">2</a></li>
+    <li class="page-item"><a class="page-link" href="2">2</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/3">3</a></li>
+    <li class="page-item"><a class="page-link" href="3">3</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/4">4</a></li>
+    <li class="page-item"><a class="page-link" href="4">4</a></li>
     
     
     
-    <li class="page-item active"><a class="page-link" href="#">5 <span class="sr-only">(current)</span></a></li>
+    <li class="page-item active"><a class="page-link" href="5#">5 <span class="sr-only">(current)</span></a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/6">6</a></li>
+    <li class="page-item"><a class="page-link" href="6">6</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/7">7</a></li>
+    <li class="page-item"><a class="page-link" href="7">7</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/8">8</a></li>
+    <li class="page-item"><a class="page-link" href="8">8</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/10">10</a></li>
+    <li class="page-item"><a class="page-link" href="10">10</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/19">19</a></li>
+    <li class="page-item"><a class="page-link" href="19">19</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/28">28</a></li>
+    <li class="page-item"><a class="page-link" href="28">28</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/37">37</a></li>
+    <li class="page-item"><a class="page-link" href="37">37</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/46">46</a></li>
+    <li class="page-item"><a class="page-link" href="46">46</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/49">49</a></li>
+    <li class="page-item"><a class="page-link" href="49">49</a></li>
     
     
 
     
-    <li class="page-item"><a class="page-link" href="/fonts/6">Next</a></li>
+    <li class="page-item"><a class="page-link" href="6">Next</a></li>
     
   </ul>
 </div>
@@ -449,9 +449,9 @@
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>

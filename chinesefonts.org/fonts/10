@@ -72,7 +72,7 @@
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="../index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -85,15 +85,15 @@
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../search">Search</a></li>
                           
                           
                         </ul>
@@ -132,65 +132,65 @@
 <div class="text-center">
   <ul class="pagination">
     
-    <li class="page-item"><a class="page-link" href="/fonts/9">Prev</a></li>
+    <li class="page-item"><a class="page-link" href="9">Prev</a></li>
     
 
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/1">1</a></li>
+    <li class="page-item"><a class="page-link" href="1">1</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/7">7</a></li>
+    <li class="page-item"><a class="page-link" href="7">7</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/8">8</a></li>
+    <li class="page-item"><a class="page-link" href="8">8</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/9">9</a></li>
+    <li class="page-item"><a class="page-link" href="9">9</a></li>
     
     
     
-    <li class="page-item active"><a class="page-link" href="#">10 <span class="sr-only">(current)</span></a></li>
+    <li class="page-item active"><a class="page-link" href="10#">10 <span class="sr-only">(current)</span></a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/11">11</a></li>
+    <li class="page-item"><a class="page-link" href="11">11</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/12">12</a></li>
+    <li class="page-item"><a class="page-link" href="12">12</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/13">13</a></li>
+    <li class="page-item"><a class="page-link" href="13">13</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/19">19</a></li>
+    <li class="page-item"><a class="page-link" href="19">19</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/28">28</a></li>
+    <li class="page-item"><a class="page-link" href="28">28</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/37">37</a></li>
+    <li class="page-item"><a class="page-link" href="37">37</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/46">46</a></li>
+    <li class="page-item"><a class="page-link" href="46">46</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/49">49</a></li>
+    <li class="page-item"><a class="page-link" href="49">49</a></li>
     
     
 
     
-    <li class="page-item"><a class="page-link" href="/fonts/11">Next</a></li>
+    <li class="page-item"><a class="page-link" href="11">Next</a></li>
     
   </ul>
 </div>
@@ -202,18 +202,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/gen-jyuu-gothic-p-regular"><img src="https://media.chinesefonts.org/preview/gen-jyuu-gothic-p-regular.png" alt="Preview of Gen Jyuu Gothic P Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="gen-jyuu-gothic-p-regular"><img src="https://media.chinesefonts.org/preview/gen-jyuu-gothic-p-regular.png" alt="Preview of Gen Jyuu Gothic P Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/gen-jyuu-gothic-p-regular">Gen Jyuu Gothic P Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="gen-jyuu-gothic-p-regular">Gen Jyuu Gothic P Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>899 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/gen-jyuu-gothic-p-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="gen-jyuu-gothic-p-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -240,18 +240,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/gen-jyuu-gothic-regular"><img src="https://media.chinesefonts.org/preview/gen-jyuu-gothic-regular.png" alt="Preview of Gen Jyuu Gothic Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="gen-jyuu-gothic-regular"><img src="https://media.chinesefonts.org/preview/gen-jyuu-gothic-regular.png" alt="Preview of Gen Jyuu Gothic Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/gen-jyuu-gothic-regular">Gen Jyuu Gothic Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="gen-jyuu-gothic-regular">Gen Jyuu Gothic Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>1272 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/gen-jyuu-gothic-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="gen-jyuu-gothic-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -261,18 +261,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/genkaimincho-regular"><img src="https://media.chinesefonts.org/preview/genkaimincho-regular.png" alt="Preview of Genkaimincho Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="genkaimincho-regular"><img src="https://media.chinesefonts.org/preview/genkaimincho-regular.png" alt="Preview of Genkaimincho Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/genkaimincho-regular">Genkaimincho Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="genkaimincho-regular">Genkaimincho Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>7026 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/genkaimincho-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="genkaimincho-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -282,18 +282,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/genryumin-jp-bold"><img src="https://media.chinesefonts.org/preview/genryumin-jp-bold.png" alt="Preview of GenRyuMin JP Bold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="genryumin-jp-bold"><img src="https://media.chinesefonts.org/preview/genryumin-jp-bold.png" alt="Preview of GenRyuMin JP Bold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/genryumin-jp-bold">GenRyuMin JP Bold</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="genryumin-jp-bold">GenRyuMin JP Bold</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>7501 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/genryumin-jp-bold" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="genryumin-jp-bold" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -303,18 +303,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/genryumin-jp-extralight"><img src="https://media.chinesefonts.org/preview/genryumin-jp-extralight.png" alt="Preview of GenRyuMin JP ExtraLight" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="genryumin-jp-extralight"><img src="https://media.chinesefonts.org/preview/genryumin-jp-extralight.png" alt="Preview of GenRyuMin JP ExtraLight" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/genryumin-jp-extralight">GenRyuMin JP ExtraLight</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="genryumin-jp-extralight">GenRyuMin JP ExtraLight</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>805 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/genryumin-jp-extralight" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="genryumin-jp-extralight" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -327,65 +327,65 @@
 <div class="text-center">
   <ul class="pagination">
     
-    <li class="page-item"><a class="page-link" href="/fonts/9">Prev</a></li>
+    <li class="page-item"><a class="page-link" href="9">Prev</a></li>
     
 
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/1">1</a></li>
+    <li class="page-item"><a class="page-link" href="1">1</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/7">7</a></li>
+    <li class="page-item"><a class="page-link" href="7">7</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/8">8</a></li>
+    <li class="page-item"><a class="page-link" href="8">8</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/9">9</a></li>
+    <li class="page-item"><a class="page-link" href="9">9</a></li>
     
     
     
-    <li class="page-item active"><a class="page-link" href="#">10 <span class="sr-only">(current)</span></a></li>
+    <li class="page-item active"><a class="page-link" href="10#">10 <span class="sr-only">(current)</span></a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/11">11</a></li>
+    <li class="page-item"><a class="page-link" href="11">11</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/12">12</a></li>
+    <li class="page-item"><a class="page-link" href="12">12</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/13">13</a></li>
+    <li class="page-item"><a class="page-link" href="13">13</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/19">19</a></li>
+    <li class="page-item"><a class="page-link" href="19">19</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/28">28</a></li>
+    <li class="page-item"><a class="page-link" href="28">28</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/37">37</a></li>
+    <li class="page-item"><a class="page-link" href="37">37</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/46">46</a></li>
+    <li class="page-item"><a class="page-link" href="46">46</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/49">49</a></li>
+    <li class="page-item"><a class="page-link" href="49">49</a></li>
     
     
 
     
-    <li class="page-item"><a class="page-link" href="/fonts/11">Next</a></li>
+    <li class="page-item"><a class="page-link" href="11">Next</a></li>
     
   </ul>
 </div>
@@ -441,9 +441,9 @@
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>

@@ -105,7 +105,7 @@
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="../index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -118,15 +118,15 @@
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../search">Search</a></li>
                           
                           
                         </ul>
@@ -209,7 +209,7 @@
         <input type="text" dir="ltr" class="form-control" id="previewtext" onkeyup="TextChanged()">
       </div>
 
-      <form method="post" action="/fonts/shijuefcomgongfanmianfeiti-regular" name="fontdownload">
+      <form method="post" action="shijuefcomgongfanmianfeiti-regular" name="fontdownload">
         <input type="hidden" name="csrfmiddlewaretoken" value="aUea1sRZ6KWDHc5RcvvljxASSOUOTIi6uZXhw1PNZUKA1wa8DSEQX0DkHcDAiKHK">
         <input type="hidden" name="method" id="id_method">
         <script src="https://www.google.com/recaptcha/api.js"></script>
@@ -239,9 +239,9 @@
 </div>
         <input type="submit" value="Submit" style="display:none;" id="fontdownloadsubmit">
       </form>
-      <a href="#" class="btn btn-primary btn-lg" id="downloadbutton"><i class="fa fa-download"></i> Download Font</a>
+      <a href="shijuefcomgongfanmianfeiti-regular#" class="btn btn-primary btn-lg" id="downloadbutton"><i class="fa fa-download"></i> Download Font</a>
       <br/>
-      <small class="text-muted block"> By downloading the Font, You agree to our <a href="/terms-and-conditions">Terms and Conditions</a>.</small>
+      <small class="text-muted block"> By downloading the Font, You agree to our <a href="../terms-and-conditions">Terms and Conditions</a>.</small>
     </div>
     <script>
       $('#downloadbutton').click(function() {
@@ -396,7 +396,7 @@
       <br/>
       <h4>Character Map</h4>
       
-      <img src="/fonts/shijuefcomgongfanmianfeiti-regular-charmap.png" alt="Character Map of shijuef.com(gongfanmianfeiti) Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" />
+      <img src="shijuefcomgongfanmianfeiti-regular-charmap.png" alt="Character Map of shijuef.com(gongfanmianfeiti) Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" />
     </div>
   </article>
   
@@ -406,18 +406,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/shijuefcomgongfanmianfeiti-regular"><img src="https://media.chinesefonts.org/preview/shijuefcomgongfanmianfeiti-regular.png" alt="Preview of shijuef.com(gongfanmianfeiti) Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="shijuefcomgongfanmianfeiti-regular"><img src="https://media.chinesefonts.org/preview/shijuefcomgongfanmianfeiti-regular.png" alt="Preview of shijuef.com(gongfanmianfeiti) Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/shijuefcomgongfanmianfeiti-regular">shijuef.com(gongfanmianfeiti) Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="shijuefcomgongfanmianfeiti-regular">shijuef.com(gongfanmianfeiti) Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>27640 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/shijuefcomgongfanmianfeiti-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="shijuefcomgongfanmianfeiti-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -427,18 +427,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/gen-shin-gothic-regular"><img src="https://media.chinesefonts.org/preview/gen-shin-gothic-regular.png" alt="Preview of Gen Shin Gothic Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="gen-shin-gothic-regular"><img src="https://media.chinesefonts.org/preview/gen-shin-gothic-regular.png" alt="Preview of Gen Shin Gothic Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/gen-shin-gothic-regular">Gen Shin Gothic Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="gen-shin-gothic-regular">Gen Shin Gothic Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>540 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/gen-shin-gothic-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="gen-shin-gothic-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -465,18 +465,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/shoushuti-regular"><img src="https://media.chinesefonts.org/preview/shoushuti-regular.png" alt="Preview of ShouShuti Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="shoushuti-regular"><img src="https://media.chinesefonts.org/preview/shoushuti-regular.png" alt="Preview of ShouShuti Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/shoushuti-regular">ShouShuti Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="shoushuti-regular">ShouShuti Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>1931 </span>
         <span class="mr-3">
           <span class="stars-container stars-80">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/shoushuti-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="shoushuti-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -486,18 +486,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/genwanmin-jp-regular"><img src="https://media.chinesefonts.org/preview/genwanmin-jp-regular.png" alt="Preview of GenWanMin JP Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="genwanmin-jp-regular"><img src="https://media.chinesefonts.org/preview/genwanmin-jp-regular.png" alt="Preview of GenWanMin JP Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/genwanmin-jp-regular">GenWanMin JP Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="genwanmin-jp-regular">GenWanMin JP Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>861 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/genwanmin-jp-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="genwanmin-jp-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -507,18 +507,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/sucaijishikufangti-regular"><img src="https://media.chinesefonts.org/preview/sucaijishikufangti-regular.png" alt="Preview of sucaijishikufangti Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="sucaijishikufangti-regular"><img src="https://media.chinesefonts.org/preview/sucaijishikufangti-regular.png" alt="Preview of sucaijishikufangti Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/sucaijishikufangti-regular">sucaijishikufangti Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="sucaijishikufangti-regular">sucaijishikufangti Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>2291 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/sucaijishikufangti-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="sucaijishikufangti-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -590,9 +590,9 @@
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>

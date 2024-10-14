@@ -72,7 +72,7 @@
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="../index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -85,15 +85,15 @@
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../search">Search</a></li>
                           
                           
                         </ul>
@@ -129,7 +129,7 @@
 <div class="col-lg-8">
   
 <h1 class="font-weight-normal text-7 mb-2">Top Rated Chinese Fonts for Personal and Commercial use</h1>
-<p><p>This page offers a collection of Top Rated Chinese fonts in Songti and Heiti relevant typefaces. If you are new to Chinese Fonts and want to quickly understand top rated or <a href="https://chinesefonts.org/fonts/mostdownloaded">top downloaded Chinese fonts</a>, this page can be helpful.&nbsp;You can also use the <a href="https://chinesefonts.org/search">advanced search tool dedicated for Chinese fonts</a> to quickly search for the Chinese fonts, calligraphic designs and typefaces of your choice in Chinese Language.</p>
+<p><p>This page offers a collection of Top Rated Chinese fonts in Songti and Heiti relevant typefaces. If you are new to Chinese Fonts and want to quickly understand top rated or <a href="mostdownloaded">top downloaded Chinese fonts</a>, this page can be helpful.&nbsp;You can also use the <a href="../search">advanced search tool dedicated for Chinese fonts</a> to quickly search for the Chinese fonts, calligraphic designs and typefaces of your choice in Chinese Language.</p>
 
 <p>
 <div class="blog-posts">
@@ -137,18 +137,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/hanyisentyspringbrush-regular"><img src="https://media.chinesefonts.org/preview/hanyisentyspringbrush-regular.png" alt="Preview of HanyiSentySpringBrush Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="hanyisentyspringbrush-regular"><img src="https://media.chinesefonts.org/preview/hanyisentyspringbrush-regular.png" alt="Preview of HanyiSentySpringBrush Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/hanyisentyspringbrush-regular">HanyiSentySpringBrush Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="hanyisentyspringbrush-regular">HanyiSentySpringBrush Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>2072 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/hanyisentyspringbrush-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="hanyisentyspringbrush-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -158,18 +158,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/sentypapercut-regular"><img src="https://media.chinesefonts.org/preview/sentypapercut-regular.png" alt="Preview of SentyPaperCut Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="sentypapercut-regular"><img src="https://media.chinesefonts.org/preview/sentypapercut-regular.png" alt="Preview of SentyPaperCut Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/sentypapercut-regular">SentyPaperCut Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="sentypapercut-regular">SentyPaperCut Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>974 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/sentypapercut-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="sentypapercut-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -179,18 +179,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/hanyisentyjoy-regular"><img src="https://media.chinesefonts.org/preview/hanyisentyjoy-regular.png" alt="Preview of HanyiSentyJoy Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="hanyisentyjoy-regular"><img src="https://media.chinesefonts.org/preview/hanyisentyjoy-regular.png" alt="Preview of HanyiSentyJoy Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/hanyisentyjoy-regular">HanyiSentyJoy Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="hanyisentyjoy-regular">HanyiSentyJoy Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>3589 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/hanyisentyjoy-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="hanyisentyjoy-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -217,18 +217,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/gen-jyuu-gothic-monospace-regular"><img src="https://media.chinesefonts.org/preview/gen-jyuu-gothic-monospace-regular.png" alt="Preview of Gen Jyuu Gothic Monospace Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="gen-jyuu-gothic-monospace-regular"><img src="https://media.chinesefonts.org/preview/gen-jyuu-gothic-monospace-regular.png" alt="Preview of Gen Jyuu Gothic Monospace Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/gen-jyuu-gothic-monospace-regular">Gen Jyuu Gothic Monospace Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="gen-jyuu-gothic-monospace-regular">Gen Jyuu Gothic Monospace Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>2241 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/gen-jyuu-gothic-monospace-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="gen-jyuu-gothic-monospace-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -238,18 +238,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/ozcaramel-regular"><img src="https://media.chinesefonts.org/preview/ozcaramel-regular.png" alt="Preview of OzCaramel Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="ozcaramel-regular"><img src="https://media.chinesefonts.org/preview/ozcaramel-regular.png" alt="Preview of OzCaramel Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/ozcaramel-regular">OzCaramel Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="ozcaramel-regular">OzCaramel Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>4032 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/ozcaramel-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="ozcaramel-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -314,9 +314,9 @@
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>

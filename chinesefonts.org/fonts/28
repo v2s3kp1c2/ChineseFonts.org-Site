@@ -72,7 +72,7 @@
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="../index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -85,15 +85,15 @@
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../search">Search</a></li>
                           
                           
                         </ul>
@@ -132,65 +132,65 @@
 <div class="text-center">
   <ul class="pagination">
     
-    <li class="page-item"><a class="page-link" href="/fonts/27">Prev</a></li>
+    <li class="page-item"><a class="page-link" href="27">Prev</a></li>
     
 
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/1">1</a></li>
+    <li class="page-item"><a class="page-link" href="1">1</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/10">10</a></li>
+    <li class="page-item"><a class="page-link" href="10">10</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/19">19</a></li>
+    <li class="page-item"><a class="page-link" href="19">19</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/25">25</a></li>
+    <li class="page-item"><a class="page-link" href="25">25</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/26">26</a></li>
+    <li class="page-item"><a class="page-link" href="26">26</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/27">27</a></li>
+    <li class="page-item"><a class="page-link" href="27">27</a></li>
     
     
     
-    <li class="page-item active"><a class="page-link" href="#">28 <span class="sr-only">(current)</span></a></li>
+    <li class="page-item active"><a class="page-link" href="28#">28 <span class="sr-only">(current)</span></a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/29">29</a></li>
+    <li class="page-item"><a class="page-link" href="29">29</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/30">30</a></li>
+    <li class="page-item"><a class="page-link" href="30">30</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/31">31</a></li>
+    <li class="page-item"><a class="page-link" href="31">31</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/37">37</a></li>
+    <li class="page-item"><a class="page-link" href="37">37</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/46">46</a></li>
+    <li class="page-item"><a class="page-link" href="46">46</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/49">49</a></li>
+    <li class="page-item"><a class="page-link" href="49">49</a></li>
     
     
 
     
-    <li class="page-item"><a class="page-link" href="/fonts/29">Next</a></li>
+    <li class="page-item"><a class="page-link" href="29">Next</a></li>
     
   </ul>
 </div>
@@ -202,18 +202,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/limited-gen-shin-gothic-medium"><img src="https://media.chinesefonts.org/preview/limited-gen-shin-gothic-medium.png" alt="Preview of Limited Gen Shin Gothic Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="limited-gen-shin-gothic-medium"><img src="https://media.chinesefonts.org/preview/limited-gen-shin-gothic-medium.png" alt="Preview of Limited Gen Shin Gothic Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/limited-gen-shin-gothic-medium">Limited Gen Shin Gothic Medium</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="limited-gen-shin-gothic-medium">Limited Gen Shin Gothic Medium</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>474 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/limited-gen-shin-gothic-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="limited-gen-shin-gothic-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -223,18 +223,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/limited-gen-shin-gothic-normal"><img src="https://media.chinesefonts.org/preview/limited-gen-shin-gothic-normal.png" alt="Preview of Limited Gen Shin Gothic Normal" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="limited-gen-shin-gothic-normal"><img src="https://media.chinesefonts.org/preview/limited-gen-shin-gothic-normal.png" alt="Preview of Limited Gen Shin Gothic Normal" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/limited-gen-shin-gothic-normal">Limited Gen Shin Gothic Normal</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="limited-gen-shin-gothic-normal">Limited Gen Shin Gothic Normal</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>282 </span>
         <span class="mr-3">
           <span class="stars-container stars-0">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/limited-gen-shin-gothic-normal" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="limited-gen-shin-gothic-normal" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -244,18 +244,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/limited-gen-shin-gothic-p-bold"><img src="https://media.chinesefonts.org/preview/limited-gen-shin-gothic-p-bold.png" alt="Preview of Limited Gen Shin Gothic P Bold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="limited-gen-shin-gothic-p-bold"><img src="https://media.chinesefonts.org/preview/limited-gen-shin-gothic-p-bold.png" alt="Preview of Limited Gen Shin Gothic P Bold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/limited-gen-shin-gothic-p-bold">Limited Gen Shin Gothic P Bold</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="limited-gen-shin-gothic-p-bold">Limited Gen Shin Gothic P Bold</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>1194 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/limited-gen-shin-gothic-p-bold" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="limited-gen-shin-gothic-p-bold" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -265,18 +265,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/limited-gen-shin-gothic-p-heavy"><img src="https://media.chinesefonts.org/preview/limited-gen-shin-gothic-p-heavy.png" alt="Preview of Limited Gen Shin Gothic P Heavy" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="limited-gen-shin-gothic-p-heavy"><img src="https://media.chinesefonts.org/preview/limited-gen-shin-gothic-p-heavy.png" alt="Preview of Limited Gen Shin Gothic P Heavy" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/limited-gen-shin-gothic-p-heavy">Limited Gen Shin Gothic P Heavy</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="limited-gen-shin-gothic-p-heavy">Limited Gen Shin Gothic P Heavy</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>977 </span>
         <span class="mr-3">
           <span class="stars-container stars-0">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/limited-gen-shin-gothic-p-heavy" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="limited-gen-shin-gothic-p-heavy" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -303,18 +303,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/limited-gen-shin-gothic-p-light"><img src="https://media.chinesefonts.org/preview/limited-gen-shin-gothic-p-light.png" alt="Preview of Limited Gen Shin Gothic P Light" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="limited-gen-shin-gothic-p-light"><img src="https://media.chinesefonts.org/preview/limited-gen-shin-gothic-p-light.png" alt="Preview of Limited Gen Shin Gothic P Light" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/limited-gen-shin-gothic-p-light">Limited Gen Shin Gothic P Light</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="limited-gen-shin-gothic-p-light">Limited Gen Shin Gothic P Light</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>297 </span>
         <span class="mr-3">
           <span class="stars-container stars-0">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/limited-gen-shin-gothic-p-light" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="limited-gen-shin-gothic-p-light" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -327,65 +327,65 @@
 <div class="text-center">
   <ul class="pagination">
     
-    <li class="page-item"><a class="page-link" href="/fonts/27">Prev</a></li>
+    <li class="page-item"><a class="page-link" href="27">Prev</a></li>
     
 
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/1">1</a></li>
+    <li class="page-item"><a class="page-link" href="1">1</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/10">10</a></li>
+    <li class="page-item"><a class="page-link" href="10">10</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/19">19</a></li>
+    <li class="page-item"><a class="page-link" href="19">19</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/25">25</a></li>
+    <li class="page-item"><a class="page-link" href="25">25</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/26">26</a></li>
+    <li class="page-item"><a class="page-link" href="26">26</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/27">27</a></li>
+    <li class="page-item"><a class="page-link" href="27">27</a></li>
     
     
     
-    <li class="page-item active"><a class="page-link" href="#">28 <span class="sr-only">(current)</span></a></li>
+    <li class="page-item active"><a class="page-link" href="28#">28 <span class="sr-only">(current)</span></a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/29">29</a></li>
+    <li class="page-item"><a class="page-link" href="29">29</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/30">30</a></li>
+    <li class="page-item"><a class="page-link" href="30">30</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/31">31</a></li>
+    <li class="page-item"><a class="page-link" href="31">31</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/37">37</a></li>
+    <li class="page-item"><a class="page-link" href="37">37</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/46">46</a></li>
+    <li class="page-item"><a class="page-link" href="46">46</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/49">49</a></li>
+    <li class="page-item"><a class="page-link" href="49">49</a></li>
     
     
 
     
-    <li class="page-item"><a class="page-link" href="/fonts/29">Next</a></li>
+    <li class="page-item"><a class="page-link" href="29">Next</a></li>
     
   </ul>
 </div>
@@ -441,9 +441,9 @@
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>

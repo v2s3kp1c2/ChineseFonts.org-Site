@@ -72,7 +72,7 @@
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="../index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -85,15 +85,15 @@
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../search">Search</a></li>
                           
                           
                         </ul>
@@ -132,53 +132,53 @@
 <div class="text-center">
   <ul class="pagination">
     
-    <li class="page-item"><a class="page-link" href="#">Prev</a></li>
+    <li class="page-item"><a class="page-link" href="1#">Prev</a></li>
     
 
     
     
-    <li class="page-item active"><a class="page-link" href="#">1 <span class="sr-only">(current)</span></a></li>
+    <li class="page-item active"><a class="page-link" href="1#">1 <span class="sr-only">(current)</span></a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/2">2</a></li>
+    <li class="page-item"><a class="page-link" href="2">2</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/3">3</a></li>
+    <li class="page-item"><a class="page-link" href="3">3</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/4">4</a></li>
+    <li class="page-item"><a class="page-link" href="4">4</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/10">10</a></li>
+    <li class="page-item"><a class="page-link" href="10">10</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/19">19</a></li>
+    <li class="page-item"><a class="page-link" href="19">19</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/28">28</a></li>
+    <li class="page-item"><a class="page-link" href="28">28</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/37">37</a></li>
+    <li class="page-item"><a class="page-link" href="37">37</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/46">46</a></li>
+    <li class="page-item"><a class="page-link" href="46">46</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/49">49</a></li>
+    <li class="page-item"><a class="page-link" href="49">49</a></li>
     
     
 
     
-    <li class="page-item"><a class="page-link" href="/fonts/2">Next</a></li>
+    <li class="page-item"><a class="page-link" href="2">Next</a></li>
     
   </ul>
 </div>
@@ -190,18 +190,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/1-1"><img src="https://media.chinesefonts.org/preview/1-1.png" alt="Preview of 1" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="1-1"><img src="https://media.chinesefonts.org/preview/1-1.png" alt="Preview of 1" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/1-1">1</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="1-1">1</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>4995 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/1-1" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="1-1" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -211,18 +211,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/2-2"><img src="https://media.chinesefonts.org/preview/2-2.png" alt="Preview of 2" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="2-2"><img src="https://media.chinesefonts.org/preview/2-2.png" alt="Preview of 2" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/2-2">2</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="2-2">2</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>3757 </span>
         <span class="mr-3">
           <span class="stars-container stars-80">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/2-2" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="2-2" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -249,18 +249,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/851tegakizatsu-regular"><img src="https://media.chinesefonts.org/preview/851tegakizatsu-regular.png" alt="Preview of 851tegakizatsu Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="851tegakizatsu-regular"><img src="https://media.chinesefonts.org/preview/851tegakizatsu-regular.png" alt="Preview of 851tegakizatsu Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/851tegakizatsu-regular">851tegakizatsu Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="851tegakizatsu-regular">851tegakizatsu Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>4542 </span>
         <span class="mr-3">
           <span class="stars-container stars-80">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/851tegakizatsu-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="851tegakizatsu-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -270,18 +270,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/aoyagireisyosimo2-regular"><img src="https://media.chinesefonts.org/preview/aoyagireisyosimo2-regular.png" alt="Preview of aoyagireisyosimo2 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="aoyagireisyosimo2-regular"><img src="https://media.chinesefonts.org/preview/aoyagireisyosimo2-regular.png" alt="Preview of aoyagireisyosimo2 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/aoyagireisyosimo2-regular">aoyagireisyosimo2 Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="aoyagireisyosimo2-regular">aoyagireisyosimo2 Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>20272 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/aoyagireisyosimo2-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="aoyagireisyosimo2-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -291,18 +291,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/azppt_1_1436212_19-regular"><img src="https://media.chinesefonts.org/preview/azppt_1_1436212_19-regular.png" alt="Preview of AZPPT_1_1436212_19 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="azppt_1_1436212_19-regular"><img src="https://media.chinesefonts.org/preview/azppt_1_1436212_19-regular.png" alt="Preview of AZPPT_1_1436212_19 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/azppt_1_1436212_19-regular">AZPPT_1_1436212_19 Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="azppt_1_1436212_19-regular">AZPPT_1_1436212_19 Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>6292 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/azppt_1_1436212_19-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="azppt_1_1436212_19-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -315,53 +315,53 @@
 <div class="text-center">
   <ul class="pagination">
     
-    <li class="page-item"><a class="page-link" href="#">Prev</a></li>
+    <li class="page-item"><a class="page-link" href="1#">Prev</a></li>
     
 
     
     
-    <li class="page-item active"><a class="page-link" href="#">1 <span class="sr-only">(current)</span></a></li>
+    <li class="page-item active"><a class="page-link" href="1#">1 <span class="sr-only">(current)</span></a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/2">2</a></li>
+    <li class="page-item"><a class="page-link" href="2">2</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/3">3</a></li>
+    <li class="page-item"><a class="page-link" href="3">3</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/4">4</a></li>
+    <li class="page-item"><a class="page-link" href="4">4</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/10">10</a></li>
+    <li class="page-item"><a class="page-link" href="10">10</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/19">19</a></li>
+    <li class="page-item"><a class="page-link" href="19">19</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/28">28</a></li>
+    <li class="page-item"><a class="page-link" href="28">28</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/37">37</a></li>
+    <li class="page-item"><a class="page-link" href="37">37</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/46">46</a></li>
+    <li class="page-item"><a class="page-link" href="46">46</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/49">49</a></li>
+    <li class="page-item"><a class="page-link" href="49">49</a></li>
     
     
 
     
-    <li class="page-item"><a class="page-link" href="/fonts/2">Next</a></li>
+    <li class="page-item"><a class="page-link" href="2">Next</a></li>
     
   </ul>
 </div>
@@ -417,9 +417,9 @@
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>

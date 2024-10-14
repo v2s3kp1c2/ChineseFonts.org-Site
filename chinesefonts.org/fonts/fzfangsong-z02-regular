@@ -105,7 +105,7 @@
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="../index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -118,15 +118,15 @@
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../search">Search</a></li>
                           
                           
                         </ul>
@@ -209,7 +209,7 @@
         <input type="text" dir="ltr" class="form-control" id="previewtext" onkeyup="TextChanged()">
       </div>
 
-      <form method="post" action="/fonts/fzfangsong-z02-regular" name="fontdownload">
+      <form method="post" action="fzfangsong-z02-regular" name="fontdownload">
         <input type="hidden" name="csrfmiddlewaretoken" value="qYG3iuA728YI7vuCkwxNbecsJkeFqogeK3paN3yVViMFrPzTLTGiPHfUyIXrPqFS">
         <input type="hidden" name="method" id="id_method">
         <script src="https://www.google.com/recaptcha/api.js"></script>
@@ -239,9 +239,9 @@
 </div>
         <input type="submit" value="Submit" style="display:none;" id="fontdownloadsubmit">
       </form>
-      <a href="#" class="btn btn-primary btn-lg" id="downloadbutton"><i class="fa fa-download"></i> Download Font</a>
+      <a href="fzfangsong-z02-regular#" class="btn btn-primary btn-lg" id="downloadbutton"><i class="fa fa-download"></i> Download Font</a>
       <br/>
-      <small class="text-muted block"> By downloading the Font, You agree to our <a href="/terms-and-conditions">Terms and Conditions</a>.</small>
+      <small class="text-muted block"> By downloading the Font, You agree to our <a href="../terms-and-conditions">Terms and Conditions</a>.</small>
     </div>
     <script>
       $('#downloadbutton').click(function() {
@@ -396,7 +396,7 @@
       <br/>
       <h4>Character Map</h4>
       
-      <img src="/fonts/fzfangsong-z02-regular-charmap.png" alt="Character Map of FZFangSong-Z02 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" />
+      <img src="fzfangsong-z02-regular-charmap.png" alt="Character Map of FZFangSong-Z02 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" />
     </div>
   </article>
   
@@ -423,18 +423,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/fzfangsong-z02-regular"><img src="https://media.chinesefonts.org/preview/fzfangsong-z02-regular.png" alt="Preview of FZFangSong-Z02 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="fzfangsong-z02-regular"><img src="https://media.chinesefonts.org/preview/fzfangsong-z02-regular.png" alt="Preview of FZFangSong-Z02 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/fzfangsong-z02-regular">FZFangSong-Z02 Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="fzfangsong-z02-regular">FZFangSong-Z02 Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>7787 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/fzfangsong-z02-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="fzfangsong-z02-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -444,18 +444,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/fzfangsong-z02t-regular"><img src="https://media.chinesefonts.org/preview/fzfangsong-z02t-regular.png" alt="Preview of FZFangSong-Z02T Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="fzfangsong-z02t-regular"><img src="https://media.chinesefonts.org/preview/fzfangsong-z02t-regular.png" alt="Preview of FZFangSong-Z02T Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/fzfangsong-z02t-regular">FZFangSong-Z02T Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="fzfangsong-z02t-regular">FZFangSong-Z02T Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>1335 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/fzfangsong-z02t-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="fzfangsong-z02t-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -465,18 +465,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/fzfangsong-z02s-regular"><img src="https://media.chinesefonts.org/preview/fzfangsong-z02s-regular.png" alt="Preview of FZFangSong-Z02S Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="fzfangsong-z02s-regular"><img src="https://media.chinesefonts.org/preview/fzfangsong-z02s-regular.png" alt="Preview of FZFangSong-Z02S Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/fzfangsong-z02s-regular">FZFangSong-Z02S Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="fzfangsong-z02s-regular">FZFangSong-Z02S Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>2085 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/fzfangsong-z02s-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="fzfangsong-z02s-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -486,18 +486,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/fzshusong-z01-regular"><img src="https://media.chinesefonts.org/preview/fzshusong-z01-regular.png" alt="Preview of FZShuSong-Z01 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="fzshusong-z01-regular"><img src="https://media.chinesefonts.org/preview/fzshusong-z01-regular.png" alt="Preview of FZShuSong-Z01 Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/fzshusong-z01-regular">FZShuSong-Z01 Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="fzshusong-z01-regular">FZShuSong-Z01 Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>2364 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/fzshusong-z01-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="fzshusong-z01-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -507,18 +507,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/fzshusong-z01s-regular"><img src="https://media.chinesefonts.org/preview/fzshusong-z01s-regular.png" alt="Preview of FZShuSong-Z01S Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="fzshusong-z01s-regular"><img src="https://media.chinesefonts.org/preview/fzshusong-z01s-regular.png" alt="Preview of FZShuSong-Z01S Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/fzshusong-z01s-regular">FZShuSong-Z01S Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="fzshusong-z01s-regular">FZShuSong-Z01S Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>2039 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/fzshusong-z01s-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="fzshusong-z01s-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -590,9 +590,9 @@
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>

@@ -72,7 +72,7 @@
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="../index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -85,15 +85,15 @@
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../search">Search</a></li>
                           
                           
                         </ul>
@@ -132,65 +132,65 @@
 <div class="text-center">
   <ul class="pagination">
     
-    <li class="page-item"><a class="page-link" href="/fonts/18">Prev</a></li>
+    <li class="page-item"><a class="page-link" href="18">Prev</a></li>
     
 
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/1">1</a></li>
+    <li class="page-item"><a class="page-link" href="1">1</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/10">10</a></li>
+    <li class="page-item"><a class="page-link" href="10">10</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/16">16</a></li>
+    <li class="page-item"><a class="page-link" href="16">16</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/17">17</a></li>
+    <li class="page-item"><a class="page-link" href="17">17</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/18">18</a></li>
+    <li class="page-item"><a class="page-link" href="18">18</a></li>
     
     
     
-    <li class="page-item active"><a class="page-link" href="#">19 <span class="sr-only">(current)</span></a></li>
+    <li class="page-item active"><a class="page-link" href="19#">19 <span class="sr-only">(current)</span></a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/20">20</a></li>
+    <li class="page-item"><a class="page-link" href="20">20</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/21">21</a></li>
+    <li class="page-item"><a class="page-link" href="21">21</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/22">22</a></li>
+    <li class="page-item"><a class="page-link" href="22">22</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/28">28</a></li>
+    <li class="page-item"><a class="page-link" href="28">28</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/37">37</a></li>
+    <li class="page-item"><a class="page-link" href="37">37</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/46">46</a></li>
+    <li class="page-item"><a class="page-link" href="46">46</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/49">49</a></li>
+    <li class="page-item"><a class="page-link" href="49">49</a></li>
     
     
 
     
-    <li class="page-item"><a class="page-link" href="/fonts/20">Next</a></li>
+    <li class="page-item"><a class="page-link" href="20">Next</a></li>
     
   </ul>
 </div>
@@ -202,18 +202,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/hanyisentyfingerpainting-regular"><img src="https://media.chinesefonts.org/preview/hanyisentyfingerpainting-regular.png" alt="Preview of HanyiSentyFingerPainting Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="hanyisentyfingerpainting-regular"><img src="https://media.chinesefonts.org/preview/hanyisentyfingerpainting-regular.png" alt="Preview of HanyiSentyFingerPainting Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/hanyisentyfingerpainting-regular">HanyiSentyFingerPainting Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="hanyisentyfingerpainting-regular">HanyiSentyFingerPainting Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>964 </span>
         <span class="mr-3">
           <span class="stars-container stars-80">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/hanyisentyfingerpainting-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="hanyisentyfingerpainting-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -223,18 +223,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/hanyi-senty-floral-calligraphy-regular"><img src="https://media.chinesefonts.org/preview/hanyi-senty-floral-calligraphy-regular.png" alt="Preview of Hanyi Senty Floral Calligraphy Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="hanyi-senty-floral-calligraphy-regular"><img src="https://media.chinesefonts.org/preview/hanyi-senty-floral-calligraphy-regular.png" alt="Preview of Hanyi Senty Floral Calligraphy Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/hanyi-senty-floral-calligraphy-regular">Hanyi Senty Floral Calligraphy Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="hanyi-senty-floral-calligraphy-regular">Hanyi Senty Floral Calligraphy Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>3536 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/hanyi-senty-floral-calligraphy-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="hanyi-senty-floral-calligraphy-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -244,18 +244,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/hanyisentyfoundation-regular"><img src="https://media.chinesefonts.org/preview/hanyisentyfoundation-regular.png" alt="Preview of HanyiSentyFoundation Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="hanyisentyfoundation-regular"><img src="https://media.chinesefonts.org/preview/hanyisentyfoundation-regular.png" alt="Preview of HanyiSentyFoundation Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/hanyisentyfoundation-regular">HanyiSentyFoundation Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="hanyisentyfoundation-regular">HanyiSentyFoundation Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>8772 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/hanyisentyfoundation-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="hanyisentyfoundation-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -265,18 +265,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/hanyisentygarden-regular"><img src="https://media.chinesefonts.org/preview/hanyisentygarden-regular.png" alt="Preview of HanyiSentyGarden Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="hanyisentygarden-regular"><img src="https://media.chinesefonts.org/preview/hanyisentygarden-regular.png" alt="Preview of HanyiSentyGarden Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/hanyisentygarden-regular">HanyiSentyGarden Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="hanyisentygarden-regular">HanyiSentyGarden Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>1517 </span>
         <span class="mr-3">
           <span class="stars-container stars-80">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/hanyisentygarden-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="hanyisentygarden-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -303,18 +303,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/hanyisentygraffiti-regular"><img src="https://media.chinesefonts.org/preview/hanyisentygraffiti-regular.png" alt="Preview of HanyiSentyGraffiti Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="hanyisentygraffiti-regular"><img src="https://media.chinesefonts.org/preview/hanyisentygraffiti-regular.png" alt="Preview of HanyiSentyGraffiti Regular" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/hanyisentygraffiti-regular">HanyiSentyGraffiti Regular</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="hanyisentygraffiti-regular">HanyiSentyGraffiti Regular</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>1689 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/hanyisentygraffiti-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="hanyisentygraffiti-regular" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -327,65 +327,65 @@
 <div class="text-center">
   <ul class="pagination">
     
-    <li class="page-item"><a class="page-link" href="/fonts/18">Prev</a></li>
+    <li class="page-item"><a class="page-link" href="18">Prev</a></li>
     
 
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/1">1</a></li>
+    <li class="page-item"><a class="page-link" href="1">1</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/10">10</a></li>
+    <li class="page-item"><a class="page-link" href="10">10</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/16">16</a></li>
+    <li class="page-item"><a class="page-link" href="16">16</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/17">17</a></li>
+    <li class="page-item"><a class="page-link" href="17">17</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/18">18</a></li>
+    <li class="page-item"><a class="page-link" href="18">18</a></li>
     
     
     
-    <li class="page-item active"><a class="page-link" href="#">19 <span class="sr-only">(current)</span></a></li>
+    <li class="page-item active"><a class="page-link" href="19#">19 <span class="sr-only">(current)</span></a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/20">20</a></li>
+    <li class="page-item"><a class="page-link" href="20">20</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/21">21</a></li>
+    <li class="page-item"><a class="page-link" href="21">21</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/22">22</a></li>
+    <li class="page-item"><a class="page-link" href="22">22</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/28">28</a></li>
+    <li class="page-item"><a class="page-link" href="28">28</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/37">37</a></li>
+    <li class="page-item"><a class="page-link" href="37">37</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/46">46</a></li>
+    <li class="page-item"><a class="page-link" href="46">46</a></li>
     
     
     
-    <li class="page-item"><a class="page-link" href="/fonts/49">49</a></li>
+    <li class="page-item"><a class="page-link" href="49">49</a></li>
     
     
 
     
-    <li class="page-item"><a class="page-link" href="/fonts/20">Next</a></li>
+    <li class="page-item"><a class="page-link" href="20">Next</a></li>
     
   </ul>
 </div>
@@ -441,9 +441,9 @@
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>

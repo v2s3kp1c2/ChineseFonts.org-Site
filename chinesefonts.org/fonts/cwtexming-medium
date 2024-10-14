@@ -105,7 +105,7 @@
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="../index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -118,15 +118,15 @@
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../search">Search</a></li>
                           
                           
                         </ul>
@@ -209,7 +209,7 @@
         <input type="text" dir="ltr" class="form-control" id="previewtext" onkeyup="TextChanged()">
       </div>
 
-      <form method="post" action="/fonts/cwtexming-medium" name="fontdownload">
+      <form method="post" action="cwtexming-medium" name="fontdownload">
         <input type="hidden" name="csrfmiddlewaretoken" value="gkJKLKBKJQ59X6p29zAeHaRU2rAIGmcTApsRgjzyC0T6hqujAWJJlDUmRPju5oBx">
         <input type="hidden" name="method" id="id_method">
         <script src="https://www.google.com/recaptcha/api.js"></script>
@@ -239,9 +239,9 @@
 </div>
         <input type="submit" value="Submit" style="display:none;" id="fontdownloadsubmit">
       </form>
-      <a href="#" class="btn btn-primary btn-lg" id="downloadbutton"><i class="fa fa-download"></i> Download Font</a>
+      <a href="cwtexming-medium#" class="btn btn-primary btn-lg" id="downloadbutton"><i class="fa fa-download"></i> Download Font</a>
       <br/>
-      <small class="text-muted block"> By downloading the Font, You agree to our <a href="/terms-and-conditions">Terms and Conditions</a>.</small>
+      <small class="text-muted block"> By downloading the Font, You agree to our <a href="../terms-and-conditions">Terms and Conditions</a>.</small>
     </div>
     <script>
       $('#downloadbutton').click(function() {
@@ -396,7 +396,7 @@
       <br/>
       <h4>Character Map</h4>
       
-      <img src="/fonts/cwtexming-medium-charmap.png" alt="Character Map of cwTeXMing Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" />
+      <img src="cwtexming-medium-charmap.png" alt="Character Map of cwTeXMing Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" />
     </div>
   </article>
   
@@ -406,18 +406,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/cwtexming-medium"><img src="https://media.chinesefonts.org/preview/cwtexming-medium.png" alt="Preview of cwTeXMing Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="cwtexming-medium"><img src="https://media.chinesefonts.org/preview/cwtexming-medium.png" alt="Preview of cwTeXMing Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/cwtexming-medium">cwTeXMing Medium</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="cwtexming-medium">cwTeXMing Medium</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>10095 </span>
         <span class="mr-3">
           <span class="stars-container stars-80">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/cwtexming-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="cwtexming-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -427,18 +427,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/ebas-medium"><img src="https://media.chinesefonts.org/preview/ebas-medium.png" alt="Preview of EBAS Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="ebas-medium"><img src="https://media.chinesefonts.org/preview/ebas-medium.png" alt="Preview of EBAS Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/ebas-medium">EBAS Medium</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="ebas-medium">EBAS Medium</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>6370 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/ebas-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="ebas-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -465,18 +465,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/yrdzst-medium"><img src="https://media.chinesefonts.org/preview/yrdzst-medium.png" alt="Preview of YRDZST Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="yrdzst-medium"><img src="https://media.chinesefonts.org/preview/yrdzst-medium.png" alt="Preview of YRDZST Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/yrdzst-medium">YRDZST Medium</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="yrdzst-medium">YRDZST Medium</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>22670 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/yrdzst-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="yrdzst-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -486,18 +486,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/genyomin-jp-medium"><img src="https://media.chinesefonts.org/preview/genyomin-jp-medium.png" alt="Preview of GenYoMin JP Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="genyomin-jp-medium"><img src="https://media.chinesefonts.org/preview/genyomin-jp-medium.png" alt="Preview of GenYoMin JP Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/genyomin-jp-medium">GenYoMin JP Medium</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="genyomin-jp-medium">GenYoMin JP Medium</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>1007 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/genyomin-jp-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="genyomin-jp-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -507,18 +507,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/genwanmin-jp-medium"><img src="https://media.chinesefonts.org/preview/genwanmin-jp-medium.png" alt="Preview of GenWanMin JP Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="genwanmin-jp-medium"><img src="https://media.chinesefonts.org/preview/genwanmin-jp-medium.png" alt="Preview of GenWanMin JP Medium" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/genwanmin-jp-medium">GenWanMin JP Medium</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="genwanmin-jp-medium">GenWanMin JP Medium</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>1282 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/genwanmin-jp-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="genwanmin-jp-medium" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -590,9 +590,9 @@
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>

@@ -105,7 +105,7 @@
               <div class="header-column">
                 <div class="header-row">
                   <div class="header-logo">
-                    <a href="/">
+                    <a href="../index.html">
                       <img alt="chinesefonts" width="250" height="66" data-sticky-width="125" data-sticky-height="33" src="https://static.chinesefonts.org/asset/chinesefonts/logo.png">
                     </a>
                   </div>
@@ -118,15 +118,15 @@
                       <nav class="collapse">
                         <ul class="nav nav-pills" id="mainNav">
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/">Home</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../index.html">Home</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts">All Fonts</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../fonts">All Fonts</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/mostdownloaded">Most Downloaded</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="mostdownloaded">Most Downloaded</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/fonts/toprated">Top Rated</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="toprated">Top Rated</a></li>
                           
-                          <li><a class="dropdown-item dropdown-toggle" href="/search">Search</a></li>
+                          <li><a class="dropdown-item dropdown-toggle" href="../search">Search</a></li>
                           
                           
                         </ul>
@@ -209,7 +209,7 @@
         <input type="text" dir="ltr" class="form-control" id="previewtext" onkeyup="TextChanged()">
       </div>
 
-      <form method="post" action="/fonts/yrdzst-semibold" name="fontdownload">
+      <form method="post" action="yrdzst-semibold" name="fontdownload">
         <input type="hidden" name="csrfmiddlewaretoken" value="ZXtG4lUuQISPXaQiRNVNDPZ6cEyNCJ2fj2cNzUSiJSGMhuVzia4ihi2y12hz1LrT">
         <input type="hidden" name="method" id="id_method">
         <script src="https://www.google.com/recaptcha/api.js"></script>
@@ -239,9 +239,9 @@
 </div>
         <input type="submit" value="Submit" style="display:none;" id="fontdownloadsubmit">
       </form>
-      <a href="#" class="btn btn-primary btn-lg" id="downloadbutton"><i class="fa fa-download"></i> Download Font</a>
+      <a href="yrdzst-semibold#" class="btn btn-primary btn-lg" id="downloadbutton"><i class="fa fa-download"></i> Download Font</a>
       <br/>
-      <small class="text-muted block"> By downloading the Font, You agree to our <a href="/terms-and-conditions">Terms and Conditions</a>.</small>
+      <small class="text-muted block"> By downloading the Font, You agree to our <a href="../terms-and-conditions">Terms and Conditions</a>.</small>
     </div>
     <script>
       $('#downloadbutton').click(function() {
@@ -402,7 +402,7 @@
       <br/>
       <h4>Character Map</h4>
       
-      <img src="/fonts/yrdzst-semibold-charmap.png" alt="Character Map of YRDZST Semibold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" />
+      <img src="yrdzst-semibold-charmap.png" alt="Character Map of YRDZST Semibold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" />
     </div>
   </article>
   
@@ -412,18 +412,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/yrdzst-semibold"><img src="https://media.chinesefonts.org/preview/yrdzst-semibold.png" alt="Preview of YRDZST Semibold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="yrdzst-semibold"><img src="https://media.chinesefonts.org/preview/yrdzst-semibold.png" alt="Preview of YRDZST Semibold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/yrdzst-semibold">YRDZST Semibold</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="yrdzst-semibold">YRDZST Semibold</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>51831 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/yrdzst-semibold" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="yrdzst-semibold" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -433,18 +433,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/yrdzst-bold"><img src="https://media.chinesefonts.org/preview/yrdzst-bold.png" alt="Preview of YRDZST Bold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="yrdzst-bold"><img src="https://media.chinesefonts.org/preview/yrdzst-bold.png" alt="Preview of YRDZST Bold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/yrdzst-bold">YRDZST Bold</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="yrdzst-bold">YRDZST Bold</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>3841 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/yrdzst-bold" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="yrdzst-bold" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -454,18 +454,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/genyomin-jp-semibold"><img src="https://media.chinesefonts.org/preview/genyomin-jp-semibold.png" alt="Preview of GenYoMin JP SemiBold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="genyomin-jp-semibold"><img src="https://media.chinesefonts.org/preview/genyomin-jp-semibold.png" alt="Preview of GenYoMin JP SemiBold" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/genyomin-jp-semibold">GenYoMin JP SemiBold</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="genyomin-jp-semibold">GenYoMin JP SemiBold</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>1866 </span>
         <span class="mr-3">
           <span class="stars-container stars-100">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/genyomin-jp-semibold" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="genyomin-jp-semibold" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -492,18 +492,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/yrdzst-light"><img src="https://media.chinesefonts.org/preview/yrdzst-light.png" alt="Preview of YRDZST Light" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="yrdzst-light"><img src="https://media.chinesefonts.org/preview/yrdzst-light.png" alt="Preview of YRDZST Light" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/yrdzst-light">YRDZST Light</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="yrdzst-light">YRDZST Light</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>2454 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/yrdzst-light" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="yrdzst-light" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -513,18 +513,18 @@
   
   <article class="post post-medium border-0 pb-0 mb-5">
     <div class="post-image">
-      <a href="/fonts/yrdzst-heavy"><img src="https://media.chinesefonts.org/preview/yrdzst-heavy.png" alt="Preview of YRDZST Heavy" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
+      <a href="yrdzst-heavy"><img src="https://media.chinesefonts.org/preview/yrdzst-heavy.png" alt="Preview of YRDZST Heavy" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" /></a>
     </div>
     <div class="post-content">
 
-      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="/fonts/yrdzst-heavy">YRDZST Heavy</a></h2>
+      <h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="yrdzst-heavy">YRDZST Heavy</a></h2>
       <div class="post-meta">
         <span class="mr-3"><i class="fa fa-download"></i>2595 </span>
         <span class="mr-3">
           <span class="stars-container stars-90">★★★★★</span>
         </span>
         <span class="mr-3">
-          <a href="/fonts/yrdzst-heavy" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
+          <a href="yrdzst-heavy" class="btn btn-success" style="color:#fff"><i class="fa fa-download"></i> Download</a>
         </span>
       </div>
     </div>
@@ -596,9 +596,9 @@
               <div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
                 <nav id="sub-menu">
                   <ul>
-                    <li><i class="fas fa-angle-right"></i><a href="/privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
-                    <li><i class="fas fa-angle-right"></i><a href="/pages" class="ml-1 text-decoration-none">Pages</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../privacy-policy" class="ml-1 text-decoration-none">Privacy Policy</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../terms-and-conditions" class="ml-1 text-decoration-none">Terms And Conditions</a></li>
+                    <li><i class="fas fa-angle-right"></i><a href="../pages" class="ml-1 text-decoration-none">Pages</a></li>
                   </ul>
                 </nav>
               </div>
